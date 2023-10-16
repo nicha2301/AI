@@ -5,14 +5,8 @@ import java.util.*;
 public class UniformCostSearchAlgo implements ISearchAlgo {
     @Override
     public Node execute(Node root, String goal) {
-        Set<Node> explored = new HashSet<>();
-        Queue<Node> frontier = new PriorityQueue<Node>(new Comparator<Node>() {
-            @Override
-            public int compare(Node o1, Node o2) {
-                return Double.compare(o1.getPathCost(), o2.getPathCost());
-            }
-
-        });
+        List<Node> explored = new ArrayList<Node>();
+        Queue<Node> frontier = new PriorityQueue<Node>(Comparator.comparingDouble(Node::getPathCost));
         frontier.add(root);
 
         while (!frontier.isEmpty()) {
