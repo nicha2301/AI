@@ -1,35 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4577b314-9949-4fb9-a404-ad1e60778c2f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AI.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AI/Lab2/UniformSearch/BreadthFirstSearchAlgo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AI/Lab2/UniformSearch/BreadthFirstSearchAlgo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/AStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/GreedyBestFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/IInformedSearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/IPuzzleAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/NodeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/Puzzle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/PuzzleUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/TestAStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/TestNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/HillClimbing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/SA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2XNudcdxMlhlBgxE6LBhQQ48zVT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jonny/IdeaProjects/LTM&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/jonny/IdeaProjects/AI/Lab5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jonny\IdeaProjects\AI\Lab5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jonny\IdeaProjects\AI\Lab6" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,6 +75,10 @@
       <updated>1698481949573</updated>
       <workItem from="1698481950676" duration="71000" />
       <workItem from="1698673303864" duration="223000" />
+      <workItem from="1698680322426" duration="10000" />
+      <workItem from="1699434992059" duration="285000" />
+      <workItem from="1699516042299" duration="4910000" />
+      <workItem from="1699757181935" duration="612000" />
     </task>
     <servers />
   </component>
